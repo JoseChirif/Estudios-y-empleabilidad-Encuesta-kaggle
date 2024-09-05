@@ -5,5 +5,11 @@ Link: https://www.kaggle.com/datasets/lainguyn123/employee-survey?select=employe
 # Archivo a importar 
 employee_survey.csv
 
+# Notebook
+Estudios y empleabilidad.ipynb
+
+# Presentación ppt
+Estudios y empleabilidad.pptx
+
 # Autor del notebook
 José Chirif
